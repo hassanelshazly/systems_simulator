@@ -38,6 +38,7 @@ It uses `Runge–Kutta Method` to solve the differential equations and `Finite D
 
   
 The input parameters are the based on the following equation
+
 ![The input parameters are the based on the following equation](/README_imgs/equation.png)
 
   
