@@ -16,7 +16,6 @@ It uses `Runge–Kutta Method` to solve the differential equations and `Finite D
 ## Assumptions
 
 - Zero initial conditions.
-
 - The simulation time equals 30s.
 
   
@@ -25,9 +24,7 @@ It uses `Runge–Kutta Method` to solve the differential equations and `Finite D
 
 ```
 1. git clone https://github.com/hassanelshazly/systems_simulator
-
 2. open MATALB and change the current folder to the repo folder
-
 3. Run command 'systems'
 ```
 
@@ -46,9 +43,7 @@ The input parameters are the based on the following equation
 
 #### The input function could be
 - Unit step
-
 - Unit impulse
-
 - Any u(t) function (must be a MATLAB expression)
 
   
@@ -61,18 +56,19 @@ The bottom section is used to visualize the input, output, and the states. It is
 
   
 
-# Examples
+## Examples
 
 ### For the following forth order system
+
 ![ Fourth Order System](/README_imgs/equation2.png)
 
 
-#### The System Response
+### The System Response
 
 ![Input & Output](/README_imgs/all.png)
 
   
-#### State Variables
+### State Variables
 ![State Variables X<sub>1</sub> & X<sub>2</sub>](/README_imgs/all2.png)
 
   
