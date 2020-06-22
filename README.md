@@ -15,9 +15,9 @@ It uses `Runge–Kutta Method` to solve the differential equations and `Finite D
 
 ## Assumptions
 
-- zero initial conditions.
+- Zero initial conditions.
 
-- The simulation time equal 30s.
+- The simulation time equals 30s.
 
   
 
@@ -39,13 +39,12 @@ It uses `Runge–Kutta Method` to solve the differential equations and `Finite D
 ![The Input Fields](/README_imgs/Usage.png)
 
   
-### The input parameters are the based on the following equation
+The input parameters are the based on the following equation
 ![The input parameters are the based on the following equation](/README_imgs/equation.png)
 
   
 
-### The input function could be
-
+#### The input function could be
 - Unit step
 
 - Unit impulse
@@ -64,16 +63,16 @@ The bottom section is used to visualize the input, output, and the states. It is
 
 # Examples
 
-### System
+### For the following forth order system
 ![ Fourth Order System](/README_imgs/equation2.png)
 
 
-### System response
+#### The System Response
 
 ![Input & Output](/README_imgs/all.png)
 
   
-### State Variables
+#### State Variables
 ![State Variables X<sub>1</sub> & X<sub>2</sub>](/README_imgs/all2.png)
 
   
