@@ -7,7 +7,7 @@ A simple MATLAB Application that can simulate an LTI system of any order provide
 
   
 
-The Application does not use any ready-made libraries or functions to implement your simulation.
+The Application does not use any ready-made libraries or functions to implement the simulation.
 
 It uses `Runge–Kutta Method` to solve the differential equations and `Finite Difference Methods` as an approximation to calculate the derivatives.
 
@@ -24,7 +24,9 @@ It uses `Runge–Kutta Method` to solve the differential equations and `Finite D
 
 ```
 1. git clone https://github.com/hassanelshazly/systems_simulator
+
 2. open MATALB and change the current folder to the repo folder
+
 3. Run command 'systems'
 ```
 
@@ -65,7 +67,6 @@ The bottom section is used to visualize the input, output, and the states. It is
 
 
 ### The System Response
-
 ![Input & Output](/README_imgs/all.png)
 
   
