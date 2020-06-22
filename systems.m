@@ -464,7 +464,7 @@ classdef systems < matlab.apps.AppBase
             app.utEditFieldLabel = uilabel(app.InputFieldsPanel);
             app.utEditFieldLabel.HorizontalAlignment = 'right';
             app.utEditFieldLabel.Visible = 'off';
-            app.utEditFieldLabel.Position = [180 15 36 15];
+            app.utEditFieldLabel.Position = [180 9 36 15];
             app.utEditFieldLabel.Text = 'u(t) = ';
             
             % Create fn_field
