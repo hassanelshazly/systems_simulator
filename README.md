@@ -25,7 +25,7 @@ It uses `Runge–Kutta Method` to solve the differential equations and `Finite D
 ```
 1. git clone https://github.com/hassanelshazly/systems_simulator
 
-2. open MATALB and change the current folder to the repo folder
+2. open MATALB and change the current folder to src inside the repo folder
 
 3. Run command 'systems'
 ```
