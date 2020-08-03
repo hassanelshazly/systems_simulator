@@ -82,4 +82,4 @@ The bottom section is used to visualize the input, output, and the states. It is
 
 ## License
 
-This project is licensed under GNU General Public License v3.0
+This project is licensed under MIT License
